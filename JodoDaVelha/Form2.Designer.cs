@@ -256,6 +256,7 @@ namespace JodoDaVelha
             // 
             // j1P
             // 
+            this.j1P.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.j1P.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.j1P.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.j1P.Cursor = System.Windows.Forms.Cursors.Arrow;
@@ -269,6 +270,7 @@ namespace JodoDaVelha
             // 
             // j2P
             // 
+            this.j2P.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.j2P.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.j2P.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.j2P.Cursor = System.Windows.Forms.Cursors.Arrow;
@@ -282,6 +284,7 @@ namespace JodoDaVelha
             // 
             // emp
             // 
+            this.emp.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.emp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.emp.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.emp.Cursor = System.Windows.Forms.Cursors.Arrow;
@@ -295,6 +298,7 @@ namespace JodoDaVelha
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(142, 20);
@@ -306,6 +310,7 @@ namespace JodoDaVelha
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(309, 20);
@@ -316,6 +321,7 @@ namespace JodoDaVelha
             // 
             // label3
             // 
+            this.label3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(471, 20);
@@ -326,6 +332,7 @@ namespace JodoDaVelha
             // 
             // button3
             // 
+            this.button3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.button3.BackColor = System.Drawing.Color.Indigo;
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
